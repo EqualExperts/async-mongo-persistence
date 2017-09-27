@@ -1,9 +1,9 @@
 # async-mongo-persistence
 
 [ ![Download](https://api.bintray.com/packages/equalexperts/open-source-release-candidates/async-mongo-persistence/images/download.svg) ](https://bintray.com/equalexperts/open-source-release-candidates/async-mongo-persistence/_latestVersion)
+[![CircleCI](https://circleci.com/gh/EqualExperts/async-persistence.svg?style=svg)](https://circleci.com/gh/EqualExperts/async-persistence)
 
 Library to provide persistence to MongoDB to support asynchronous functions from [play-async](https://github.com/EqualExperts/play-async)
-
 
 
 ### Installing
